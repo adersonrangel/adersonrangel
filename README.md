@@ -1,5 +1,9 @@
 ### Hi there 👋
+I am an engineer who has adequate skills and competencies for exercise work, I have been trained with dynamic skills, prepared to attend and understand the problems that arise daily, ethically and responsibly. The experience gained within the Microsoft Academic Community has made me allowed Developing skills to propose, organize and lead processes IT.
 
+Work with Operating Systems has focused on the configuration and administration. I work as a systems administrator, with experience in Customer Support. Experience as a trainer also allows me perform productively due to personal mastery, the organization of various events, the integration and dynamic formation of academic groups.
+
+Designer and developer of business solutions through engineering processes software with high experience in object oriented paradigm implementation and design patterns in distributed solutions for desktop and web platforms, with high levels of scalability. Researcher and local speaker of new technologies.
 <!--
 **adersonrangel/adersonrangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
