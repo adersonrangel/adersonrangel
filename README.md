@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width=256 align="right" src="https://github.com/adersonrangel/adersonrangel/blob/eabeca2eee92184782b3863d079c8f362c0d6513/img/aderson-rangel.png?raw=true" />
+<img width=256 align="right" src="https://github.com/adersonrangel/adersonrangel/blob/master/aderson-rangel.jpg?raw=true" />
 
 I am an engineer who has adequate skills and competencies for exercise work, I have been trained with dynamic skills, prepared to attend and understand the problems that arise daily, ethically and responsibly. The experience gained within the Microsoft Academic Community has made me allowed Developing skills to propose, organize and lead processes IT.
 
