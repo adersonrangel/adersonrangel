@@ -9,7 +9,7 @@ Work with Operating Systems has focused on the configuration and administration.
 Designer and developer of business solutions through engineering processes software with high experience in object oriented paradigm implementation and design patterns in distributed solutions for desktop and web platforms, with high levels of scalability. Researcher and local speaker of new technologies.
 
 - 👨🏽‍🏫  I'm currently working on [Inkra](https://inkra.co) as **Software Architect**.
-- 🌱  I'm currently learning about DevOps Architecture.
+- 🌱  I'm currently learning about DevOps Architecturen and Microsevices with .Net.
 - 👨🏽‍💻  Working with **C# , Blazor, SQL Server, JavaScript, React.js, Node.js, GraphQL, MongoDB** and **Firebase**.
 - 😄 Pronouns: he/him.
 - 🧱 Fun fact: I love run.
